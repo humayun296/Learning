@@ -1,0 +1,42 @@
+body {
+    font-family: Sedan;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(244, 241, 234);
+}
+
+.header-section{
+    background-color: black;
+}
+
+.header-section .top-main{
+    display: flex;
+    padding: 0px;
+}
+
+h2{
+    color: white;
+    font-size: 16px;
+    padding-top: 10px;
+    
+}
+
+    .header-top{
+
+        background-color: rgb(178, 45, 45);
+    }
+
+    .header-top a{
+        color: white;
+        font-size: 16px;
+        font-weight: 300;
+    }
+
+    .main-navbar {
+        background-color: white;
+    }
+    
+    .main-navbar a{
+        font-size: 22px;
+        font-weight: 300;
+    }
